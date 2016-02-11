@@ -2,6 +2,9 @@ package com.martin.tree;
 
 import java.util.Stack;
 
+/**
+ * Need to be careful for all corner cases
+ * */
 public class VerifyPreOrderSerial {
 	public static class Node {
 		public String val;
@@ -20,8 +23,13 @@ public class VerifyPreOrderSerial {
 	
 	public static boolean checkUsingStack(String[] data) {
 		Stack<Node> stk = new Stack<Node>();
-		
+		if(data == null || data.length ==0) return false;
+		if(data.length == 1){
+			return data[0].equals("#"); 
+		}
 		for(int i=0;i<data.length;i++) {
+			if(stk.isEmpty() && i!=0) return false;
+			
 			if(!data[i].equals("#")) {
 				stk.push(new Node(data[i]));
 			}else{
