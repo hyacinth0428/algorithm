@@ -1,5 +1,8 @@
 package com.martin.AdvancedDatasStructure;
 
+/**
+ * If the matrix is mutable, then 2d Segment tree should be it
+ * */
 public class NumMatrix {
 	protected int[][] sumMatrix;
     protected int height;
