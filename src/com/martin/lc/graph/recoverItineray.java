@@ -1,6 +1,7 @@
 package com.martin.lc.graph;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
@@ -58,7 +59,10 @@ public class recoverItineray {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		String[] data1 = {"A","C","B","AC"};
+		Arrays.sort(data1);
 		String[][] data = {{"JFK","KUL"},{"JFK","NRT"},{"NRT","JFK"}};
+		Arrays.sort(data);
 		List<String> res = findItinerary(data);
 		System.out.println(res);
 	}
