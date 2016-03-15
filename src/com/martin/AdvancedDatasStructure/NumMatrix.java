@@ -1,5 +1,7 @@
 package com.martin.AdvancedDatasStructure;
 
+import com.martin.lc.HouseRobIII;
+
 /**
  * If the matrix is mutable, then 2d Segment tree should be it
  * */
@@ -33,7 +35,6 @@ public class NumMatrix {
 
     public int sumRegion(int row1, int col1, int row2, int col2) {
         if(sumMatrix==null) return -1;
-        
         int cnt=0;
         int up=0;
         int left=0;
