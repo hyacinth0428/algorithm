@@ -1,0 +1,63 @@
+358	Rearrange String k Distance Apart 
+356 Line Reflection
+353	Design Snake Game 
+351	Android Unlock Patterns 
+348	Design Tic-Tac-Toe 
+346	Moving Average from Data Stream 
+1R->bf 340	Longest Substring with At Most K Distinct Characters 		
+1 339	Nested List Weight Sum 
+1 333	Largest BST Subtree 
+1R->bf 325	Maximum Size Subarray Sum Equals k 
+1 323	Number of Connected Components in an Undirected Graph 
+1R-> think through 320	Generalized Abbreviation 
+1R-> good 317	Shortest Distance from All Buildings
+1R-> good 314	Binary Tree Vertical Order Traversal
+1 311	Sparse Matrix Multiplication
+308	Range Sum Query 2D - Mutable 
+1R-> good 305	Number of Islands II 
+302	Smallest Rectangle Enclosing Black Pixels
+1R->good 298	Binary Tree Longest Consecutive Sequence 
+1R-> good296	Best Meeting Point
+1R 294	Flip Game II 	41.7%		Medium	
+293	Flip Game 
+1R->good 291	Word Pattern II 
+1R 288	Unique Word Abbreviation
+1R 286	Walls and Gates 	38.0%		Medium	
+1L 285	Inorder Successor in BST
+1 281	Zigzag Iterator 	43.7%		Medium	
+1 280	Wiggle Sort 
+1 277	Find the Celebrity 	34.9%		Medium	
+1R 276	Paint Fence 
+1R-> good 272	Closest Binary Search Tree Value II 	34.1%		Hard	
+1 271	Encode and Decode Strings 	27.2%		Medium	
+1 270	Closest Binary Search Tree Value 	34.8%		Easy	
+1R -> good269	Alien Dictionary 	23.5%		Hard	
+1R -> good267	Palindrome Permutation II 	28.1%		Medium	
+1 266	Palindrome Permutation 	50.9%		Easy	
+1R->good 265	Paint House II 
+1R->good 261	Graph Valid Tree 	33.2%		Medium	
+1R->bf 259	3Sum Smaller 
+1 256	Paint House 	43.1%		Medium	
+1R->good must 255	Verify Preorder Sequence in Binary Search Tree 	37.4%		Medium	
+1R->good 254	Factor Combinations 	35.3%		Medium	
+253	Meeting Rooms II 	35.1%		Medium	
+1R->bf(done) 252	Meeting Rooms 	42.1%		Easy	
+1R->bf 251	Flatten 2D Vector 	34.6%		Medium	
+1R->bf 250	Count Univalue Subtrees 	36.9%		Medium	
+1 249	Group Shifted Strings 	31.9%		Easy	
+1 248	Strobogrammatic Number III 	27.4%		Hard	
+1 247	Strobogrammatic Number II 	34.7%		Medium	
+1R->bf 246	Strobogrammatic Number 	36.8%		Easy	
+1 245	Shortest Word Distance III 	46.4%		Medium	
+1 244	Shortest Word Distance II 	35.4%		Medium	
+1 243	Shortest Word Distance 
+1 186	Reverse Words in a String II
+1 170	Two Sum III - Data structure design 
+1 167	Two Sum II - Input array is sorted
+1R->good one 163	Missing Ranges 	29.6%		Medium	
+1 161	One Edit Distance
+1 159	Longest Substring with At Most Two Distinct Characters 	35.4%		Hard	
+1R->bf 158	Read N Characters Given Read4 II - Call multiple times 	23.5%		Hard	
+1 157	Read N Characters Given Read4 	29.4%		Easy	
+1 156	Binary Tree Upside Down 
+ 
